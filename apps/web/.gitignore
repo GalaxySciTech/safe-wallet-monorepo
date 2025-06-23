@@ -1,3 +1,6 @@
 # Auto-generated service workers
 public/*.js
 public/*.map
+.next
+node_modules
+.env
